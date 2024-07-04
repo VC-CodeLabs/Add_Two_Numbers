@@ -41,11 +41,11 @@ Output: Linked list: [1, 8]
 		String: "81"
 
 TEST 7:
-Input: 	l1 = [2, 4, 3]
-		l2 = [5, 6, 4]
+Input: 	l1 = [1, 0, 0, 0, 0, 0, 0, 0, 1]
+		l2 = [9, 9, 9, 9, 9, 9, 9, 9, 9]
 		
-Output: Linked list: [7, 0, 8]
-		String: "807"
+Output: Linked list: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+		String: "1100000000"
 
 TEST 8:
 Input: 	l1 = [0]
