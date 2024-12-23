@@ -2,10 +2,10 @@
 
 LeetCode URL: [https://leetcode.com/problems/add-two-numbers/description/](https://leetcode.com/problems/add-two-numbers/description/)
 
-**Description:**</br>
+**Description:** </br>
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each node contains a single digit. Your task is to add the two numbers and return the sum as a linked list. You'll also need to print out the linked list as a formatted string that shows the number in its normal order.
 
-**Rules:**</br>
+**Rules:** s</br>
 - Your solution must use a **SINGLY LINKED LIST**
 - Each input linked-list will represent a non-negative integer.
 - Digits are stored in reverse order, so the least significant digit is at the head of the list.
