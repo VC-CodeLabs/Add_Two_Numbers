@@ -1,6 +1,6 @@
 # Add Two Reversed Numbers
 
-LeetCode URL: https://leetcode.com/problems/add-two-numbers/description/
+LeetCode URL: [https://leetcode.com/problems/add-two-numbers/description/](https://leetcode.com/problems/add-two-numbers/description/)
 
 **Description:**</br>
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each node contains a single digit. Your task is to add the two numbers and return the sum as a linked list. You'll also need to print out the linked list as a formatted string that shows the number in its normal order.
